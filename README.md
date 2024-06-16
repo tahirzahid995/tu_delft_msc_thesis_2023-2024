@@ -1,4 +1,5 @@
-"# tu_delft_msc_thesis_2023-2024" 
+"# tu_delft_msc_thesis_2023-2024"
+
 This is the repository for the Master Thesis project "Generative Design of Catalan Vaults for Multistorey Seismic Construction"
 Author - Tahir Zahid Ishrat
 
