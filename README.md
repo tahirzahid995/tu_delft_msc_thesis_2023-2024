@@ -6,7 +6,7 @@ Author - Tahir Zahid Ishrat
 ## Structure
 This is the structure of the repository
 
-├─01/
+"├─01/
 │ ├─main.py
 │ ├─performance_evaluation_filtering/
 │ ├─requirements.txt
@@ -30,7 +30,7 @@ This is the structure of the repository
 │ └─DATASET_24/
 ├─README.md
 ├─requirements.txt
-└─tree.py
+└─tree.py"
 
 01 is the folder containing the script for Gemetry Generation
 02 is the folder containing the script for Generator (VAE/CVAE + surrogate model + gradient descent)
